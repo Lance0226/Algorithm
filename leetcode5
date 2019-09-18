@@ -1,4 +1,4 @@
-#
+#https://leetcode.com/problems/longest-palindromic-substring/
 for k in range(len(s),0,-1):
             for i in range(0,len(s)):
                 #print k
